@@ -22,20 +22,6 @@
 - **Tools**: Git, Docker, CI/CD
 
 ---
-
-### 🌍 GitHub Stats:
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChoudharyPriyanshu&show_icons=true&theme=radical)
-
----
-
-### 🌍 Languages Used:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoudharyPriyanshu&layout=compact&theme=radical)
-
----
-
-### 🔥 GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChoudharyPriyanshu)
-
 ---
 
 ### 🏆 GitHub Trophies:  
