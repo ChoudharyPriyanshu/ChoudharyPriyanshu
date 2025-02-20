@@ -11,6 +11,7 @@
 ![Tech Stack](https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react&logoColor=black)
 ![Tech Stack](https://img.shields.io/badge/Backend-Node.js-green?style=flat&logo=node.js&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/Database-MongoDB-yellow?style=flat&logo=mongodb&logoColor=black)
+![Tech Stack](https://img.shields.io/badge/Blockchain-Solidity-blue?style=flat&logo=ethereum&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/Tools-Docker-gray?style=flat&logo=docker&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/CI/CD-GitHub%20Actions-yellow?style=flat&logo=github&logoColor=black)
 
@@ -22,6 +23,20 @@
 - **Tools**: Git, Docker, CI/CD
 
 ---
+
+### 🌍 GitHub Stats:
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChoudharyPriyanshu&show_icons=true&theme=radical)
+
+---
+
+### 🌍 Languages Used:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoudharyPriyanshu&layout=compact&theme=radical)
+
+---
+
+### 🔥 GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChoudharyPriyanshu)
+
 ---
 
 ### 🏆 GitHub Trophies:  
