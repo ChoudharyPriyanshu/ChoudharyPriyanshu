@@ -10,7 +10,6 @@
 ![Tech Stack](https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react&logoColor=black)
 ![Tech Stack](https://img.shields.io/badge/Backend-Node.js-green?style=flat&logo=node.js&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/Database-MongoDB-yellow?style=flat&logo=mongodb&logoColor=black)
-![Tech Stack](https://img.shields.io/badge/Blockchain-Solidity-blue?style=flat&logo=ethereum&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/Tools-Docker-gray?style=flat&logo=docker&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/CI/CD-GitHub%20Actions-yellow?style=flat&logo=github&logoColor=black)
 
