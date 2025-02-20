@@ -1,6 +1,7 @@
-# Hi, I'm Priyanshu Choudhary! 👋
+# Hi, I'm Priyanshu! 👋
 
 👋 Welcome to my GitHub! I'm passionate about building robust web applications and exploring the intersection of technology and innovation. Currently focused on projects involving Node.js, MongoDB, and front-end technologies. Let's collaborate and create impactful solutions together!
+
 ---
 
 
