@@ -11,15 +11,13 @@
 ![Tech Stack](https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react&logoColor=black)
 ![Tech Stack](https://img.shields.io/badge/Backend-Node.js-green?style=flat&logo=node.js&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/Database-MongoDB-yellow?style=flat&logo=mongodb&logoColor=black)
-![Tech Stack](https://img.shields.io/badge/Tools-Docker-gray?style=flat&logo=docker&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/CI/CD-GitHub%20Actions-yellow?style=flat&logo=github&logoColor=black)
 
 ---
 
 ### 👨‍💻 Technologies & Tools:
 - **Frontend**:JavaScript, HTML, CSS
 - **Backend**: Node.js, Express, MongoDB
-- **Tools**: Git, Docker, CI/CD
+- **Tools**: Git,Postman
 
 ---
 
@@ -42,14 +40,6 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ChoudharyPriyanshu&theme=dark&no-frame=true&title=MultiPullRequest,Commit,Repositories,Stars,Issues,Followers,All)
 
 
----
-
-### 🏆 Achievements & Badges:
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blue?style=flat&logo=github)](https://hacktoberfest.digitalocean.com/)
-[![Top Langs](https://img.shields.io/badge/Top%20Languages-%20React-%2361DAFB?style=flat&logo=react&logoColor=black)](https://github.com/Priyanshu)
-[![GitHub Issues](https://img.shields.io/badge/Issues%20Opened-50%2B-yellowgreen)](https://github.com/Priyanshu)
-[![GitHub Stars](https://img.shields.io/badge/Stars%20Received-100%2B-yellow)](https://github.com/Priyanshu)
-[![Visitors](https://badges.pufler.dev/visits/Priyanshu/Priyanshu)](https://github.com/Priyanshu)
 
 ---
 
