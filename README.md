@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💻 Technologies & Tools:
-- **Frontend**:JavaScript, HTML, CSS
+- **Frontend**:JavaScript, React, HTML, CSS
 - **Backend**: Node.js, Express, MongoDB
 - **Tools**: Git,Postman
 
@@ -36,12 +36,7 @@
 
 ---
 
-### 🏆 GitHub Trophies:  
-![Trophies](https://github-profile-trophy.vercel.app/?username=ChoudharyPriyanshu&theme=dark&no-frame=true&title=MultiPullRequest,Commit,Repositories,Stars,Issues,Followers,All)
 
-
-
----
 
 ### 🌱 I’m currently learning React and exploring  technologies!
 
